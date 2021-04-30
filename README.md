@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/dylan-wu/manubot-test/tree/gh-pages) branch hosts the contents of this directory at <https://dylan-wu.github.io/manubot-test/>.
-The permalink for this webpage version is <https://dylan-wu.github.io/manubot-test/v/f09ce13278540620afe5a67840ef23284d4d83f9/>.
+The permalink for this webpage version is <https://dylan-wu.github.io/manubot-test/v/dd118227c2910fc2daab2703d6b88a8679094d56/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://dylan-wu.github.io/manubot-test/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f09ce13278540620afe5a67840ef23284d4d83f9`](https://github.com/dylan-wu/manubot-test/commit/f09ce13278540620afe5a67840ef23284d4d83f9).
+[`dd118227c2910fc2daab2703d6b88a8679094d56`](https://github.com/dylan-wu/manubot-test/commit/dd118227c2910fc2daab2703d6b88a8679094d56).
